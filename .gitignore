@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+cmake-build-*/
+python/libchess/
+python/build/
+python/libchess.egg-info/
